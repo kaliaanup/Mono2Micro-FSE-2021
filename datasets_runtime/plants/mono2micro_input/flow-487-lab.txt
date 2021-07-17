@@ -1,0 +1,68 @@
+1589175093646,click_my_account,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performAccount
+1589175093647,click_my_account,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performAccount,<None>:Root:<None>
+1589175093696,click_my_account,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589175093696,click_my_account,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589175093699,click_my_account,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175093700,click_my_account,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589175093701,click_my_account,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175093701,click_my_account,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589175093709,click_my_account,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589175093709,click_my_account,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589175093710,click_my_account,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175093710,click_my_account,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589175093711,click_my_account,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175093715,click_my_account,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589175093718,click_my_account,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589175093719,click_my_account,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589175093721,click_my_account,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175093722,click_my_account,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589175093723,click_my_account,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175093725,click_my_account,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589175093942,click_my_account,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589175093943,click_my_account,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589175093954,click_my_account,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589175093954,click_my_account,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589175093955,click_my_account,Root calls Customer,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getFirstName
+1589175093955,click_my_account,Customer returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getFirstName,<None>:Root:<None>
+1589175093973,click_my_account,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589175093975,click_my_account,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589175093976,click_my_account,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589175093976,click_my_account,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589175093977,click_my_account,Root calls Customer,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getLastName
+1589175093977,click_my_account,Customer returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getLastName,<None>:Root:<None>
+1589175093994,click_my_account,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589175093995,click_my_account,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589175093995,click_my_account,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589175093996,click_my_account,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589175093996,click_my_account,Root calls Customer,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddr1
+1589175093996,click_my_account,Customer returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddr1,<None>:Root:<None>
+1589175093997,click_my_account,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589175093997,click_my_account,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589175093998,click_my_account,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589175093998,click_my_account,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589175093999,click_my_account,Root calls Customer,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddr2
+1589175093999,click_my_account,Customer returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddr2,<None>:Root:<None>
+1589175094013,click_my_account,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589175094014,click_my_account,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589175094014,click_my_account,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589175094014,click_my_account,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589175094016,click_my_account,Root calls Customer,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddrCity
+1589175094016,click_my_account,Customer returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddrCity,<None>:Root:<None>
+1589175094031,click_my_account,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589175094031,click_my_account,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589175094032,click_my_account,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589175094034,click_my_account,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589175094035,click_my_account,Root calls Customer,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddrState
+1589175094035,click_my_account,Customer returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddrState,<None>:Root:<None>
+1589175094056,click_my_account,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589175094056,click_my_account,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589175094057,click_my_account,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589175094057,click_my_account,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589175094060,click_my_account,Root calls Customer,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddrZip
+1589175094060,click_my_account,Customer returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddrZip,<None>:Root:<None>
+1589175094071,click_my_account,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589175094071,click_my_account,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589175094072,click_my_account,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589175094072,click_my_account,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589175094074,click_my_account,Root calls Customer,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getPhone
+1589175094074,click_my_account,Customer returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getPhone,<None>:Root:<None>

@@ -1,0 +1,44 @@
+1589171859121,init,Root calls SqlMapOrderDao,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapOrderDao.java:SqlMapOrderDao:setSequenceDao
+1589171859122,init,SqlMapOrderDao returns to Root,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapOrderDao.java:SqlMapOrderDao:setSequenceDao,<None>:Root:<None>
+1589171859355,init,Root calls PetStoreImpl,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:setAccountDao
+1589171859355,init,PetStoreImpl returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:setAccountDao,<None>:Root:<None>
+1589171859357,init,Root calls PetStoreImpl,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:setCategoryDao
+1589171859358,init,PetStoreImpl returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:setCategoryDao,<None>:Root:<None>
+1589171859359,init,Root calls PetStoreImpl,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:setProductDao
+1589171859359,init,PetStoreImpl returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:setProductDao,<None>:Root:<None>
+1589171859359,init,Root calls PetStoreImpl,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:setItemDao
+1589171859360,init,PetStoreImpl returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:setItemDao,<None>:Root:<None>
+1589171859362,init,Root calls PetStoreImpl,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:setOrderDao
+1589171859363,init,PetStoreImpl returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:setOrderDao,<None>:Root:<None>
+1589171860231,init,Root calls AddItemToCartController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/AddItemToCartController.java:AddItemToCartController:setPetStore
+1589171860232,init,AddItemToCartController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/AddItemToCartController.java:AddItemToCartController:setPetStore,<None>:Root:<None>
+1589171860251,init,Root calls ViewCartController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewCartController.java:ViewCartController:setSuccessView
+1589171860251,init,ViewCartController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewCartController.java:ViewCartController:setSuccessView,<None>:Root:<None>
+1589171860339,init,Root calls AccountFormController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/AccountFormController.java:AccountFormController:AccountFormController
+1589171860339,init,AccountFormController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/AccountFormController.java:AccountFormController:AccountFormController,<None>:Root:<None>
+1589171860444,init,Root calls AccountFormController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/AccountFormController.java:AccountFormController:setPetStore
+1589171860444,init,AccountFormController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/AccountFormController.java:AccountFormController:setPetStore,<None>:Root:<None>
+1589171860454,init,Root calls SearchProductsController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/SearchProductsController.java:SearchProductsController:setPetStore
+1589171860455,init,SearchProductsController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/SearchProductsController.java:SearchProductsController:setPetStore,<None>:Root:<None>
+1589171860482,init,Root calls SignonController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/SignonController.java:SignonController:setPetStore
+1589171860491,init,SignonController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/SignonController.java:SignonController:setPetStore,<None>:Root:<None>
+1589171860493,init,Root calls ViewCartController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewCartController.java:ViewCartController:setSuccessView
+1589171860494,init,ViewCartController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewCartController.java:ViewCartController:setSuccessView,<None>:Root:<None>
+1589171860504,init,Root calls ViewCategoryController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewCategoryController.java:ViewCategoryController:setPetStore
+1589171860504,init,ViewCategoryController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewCategoryController.java:ViewCategoryController:setPetStore,<None>:Root:<None>
+1589171860515,init,Root calls ViewItemController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewItemController.java:ViewItemController:setPetStore
+1589171860515,init,ViewItemController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewItemController.java:ViewItemController:setPetStore,<None>:Root:<None>
+1589171860526,init,Root calls ViewProductController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewProductController.java:ViewProductController:setPetStore
+1589171860526,init,ViewProductController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewProductController.java:ViewProductController:setPetStore,<None>:Root:<None>
+1589171860533,init,Root calls AccountFormController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/AccountFormController.java:AccountFormController:AccountFormController
+1589171860533,init,AccountFormController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/AccountFormController.java:AccountFormController:AccountFormController,<None>:Root:<None>
+1589171860534,init,Root calls AccountFormController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/AccountFormController.java:AccountFormController:setPetStore
+1589171860534,init,AccountFormController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/AccountFormController.java:AccountFormController:setPetStore,<None>:Root:<None>
+1589171860539,init,Root calls ListOrdersController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ListOrdersController.java:ListOrdersController:setPetStore
+1589171860540,init,ListOrdersController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ListOrdersController.java:ListOrdersController:setPetStore,<None>:Root:<None>
+1589171860549,init,Root calls OrderFormController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/OrderFormController.java:OrderFormController:OrderFormController
+1589171860550,init,OrderFormController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/OrderFormController.java:OrderFormController:OrderFormController,<None>:Root:<None>
+1589171860602,init,Root calls OrderFormController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/OrderFormController.java:OrderFormController:setPetStore
+1589171860603,init,OrderFormController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/OrderFormController.java:OrderFormController:setPetStore,<None>:Root:<None>
+1589171860612,init,Root calls ViewOrderController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewOrderController.java:ViewOrderController:setPetStore
+1589171860613,init,ViewOrderController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewOrderController.java:ViewOrderController:setPetStore,<None>:Root:<None>

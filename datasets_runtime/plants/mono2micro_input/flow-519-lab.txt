@@ -1,0 +1,30 @@
+1589175169257,Unknown,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getProduct
+1589175169258,Unknown,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getProduct,<None>:Root:<None>
+1589175169259,Unknown,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getProduct
+1589175169260,Unknown,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getProduct,<None>:Root:<None>
+1589175169261,Unknown,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getProduct
+1589175169262,Unknown,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getProduct,<None>:Root:<None>
+1589175169263,Unknown,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getQuantity
+1589175169265,Unknown,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getQuantity,<None>:Root:<None>
+1589175169268,Unknown,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getProduct
+1589175169268,Unknown,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getProduct,<None>:Root:<None>
+1589175169269,Unknown,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:setQuantity
+1589175169270,Unknown,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:setQuantity,<None>:Root:<None>
+1589175169323,Unknown,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589175169324,Unknown,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589175169326,Unknown,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175169329,Unknown,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589175169329,Unknown,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175169330,Unknown,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589175169333,Unknown,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589175169335,Unknown,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589175169338,Unknown,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175169339,Unknown,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589175169339,Unknown,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175169340,Unknown,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589175169341,Unknown,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589175169341,Unknown,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589175169342,Unknown,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175169342,Unknown,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589175169343,Unknown,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175169343,Unknown,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>

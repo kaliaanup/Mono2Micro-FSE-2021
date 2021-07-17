@@ -1,0 +1,748 @@
+1589174376954,click_sign_in_2,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174376954,click_sign_in_2,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174376955,click_sign_in_2,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174376955,click_sign_in_2,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174376956,click_sign_in_2,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174376957,click_sign_in_2,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174376958,click_sign_in_2,Root calls LoginInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:getEmail
+1589174376960,click_sign_in_2,LoginInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:getEmail,<None>:Root:<None>
+1589174376962,click_sign_in_2,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174376963,click_sign_in_2,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174376963,click_sign_in_2,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174376964,click_sign_in_2,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174376964,click_sign_in_2,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174376964,click_sign_in_2,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174376965,click_sign_in_2,Root calls LoginInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:getPassword
+1589174376965,click_sign_in_2,LoginInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:getPassword,<None>:Root:<None>
+1589174376969,click_sign_in_2,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174376970,click_sign_in_2,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174376970,click_sign_in_2,Root calls LoginInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:setEmail
+1589174376971,click_sign_in_2,LoginInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:setEmail,<None>:Root:<None>
+1589174376972,click_sign_in_2,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174376972,click_sign_in_2,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174376973,click_sign_in_2,Root calls LoginInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:setPassword
+1589174376974,click_sign_in_2,LoginInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:setPassword,<None>:Root:<None>
+1589174376975,click_sign_in_2,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performLoginComplete
+1589174376976,click_sign_in_2,AccountBean calls LoginInfo,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performLoginComplete,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:getEmail
+1589174376976,click_sign_in_2,LoginInfo returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:getEmail,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performLoginComplete
+1589174376977,click_sign_in_2,AccountBean calls LoginInfo,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performLoginComplete,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:getPassword
+1589174376977,click_sign_in_2,LoginInfo returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:getPassword,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performLoginComplete
+1589174376978,click_sign_in_2,AccountBean calls CustomerMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performLoginComplete,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CustomerMgr.java:CustomerMgr:verifyUserAndPassword
+1589174377006,click_sign_in_2,CustomerMgr calls Customer,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CustomerMgr.java:CustomerMgr:verifyUserAndPassword,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:verifyPassword
+1589174377008,click_sign_in_2,Customer calls Customer,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:verifyPassword,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getPassword
+1589174377008,click_sign_in_2,Customer returns to Customer,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getPassword,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:verifyPassword
+1589174377009,click_sign_in_2,Customer returns to CustomerMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:verifyPassword,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CustomerMgr.java:CustomerMgr:verifyUserAndPassword
+1589174377009,click_sign_in_2,CustomerMgr returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CustomerMgr.java:CustomerMgr:verifyUserAndPassword,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performLoginComplete
+1589174377010,click_sign_in_2,AccountBean calls LoginInfo,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performLoginComplete,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:getEmail
+1589174377011,click_sign_in_2,LoginInfo returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:getEmail,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performLoginComplete
+1589174377012,click_sign_in_2,AccountBean calls CustomerMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performLoginComplete,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CustomerMgr.java:CustomerMgr:getCustomer
+1589174377014,click_sign_in_2,CustomerMgr returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CustomerMgr.java:CustomerMgr:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performLoginComplete
+1589174377015,click_sign_in_2,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performLoginComplete,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isCheckingOut
+1589174377015,click_sign_in_2,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isCheckingOut,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performLoginComplete
+1589174377016,click_sign_in_2,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performLoginComplete,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isUpdating
+1589174377017,click_sign_in_2,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isUpdating,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performLoginComplete
+1589174377018,click_sign_in_2,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performLoginComplete,<None>:Root:<None>
+1589174377108,click_sign_in_2,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174377110,click_sign_in_2,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174377111,click_sign_in_2,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174377112,click_sign_in_2,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174377113,click_sign_in_2,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174377114,click_sign_in_2,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174377124,click_sign_in_2,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174377129,click_sign_in_2,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174377131,click_sign_in_2,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174377137,click_sign_in_2,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174377138,click_sign_in_2,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174377138,click_sign_in_2,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174377154,click_sign_in_2,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174377156,click_sign_in_2,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174377176,click_sign_in_2,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174377184,click_sign_in_2,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174377184,click_sign_in_2,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174377185,click_sign_in_2,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174394857,click_flowers,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174394858,click_flowers,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174394859,click_flowers,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394859,click_flowers,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174394860,click_flowers,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394861,click_flowers,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174394862,click_flowers,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174394863,click_flowers,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174394863,click_flowers,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394864,click_flowers,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174394864,click_flowers,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394865,click_flowers,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174394866,click_flowers,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174394866,click_flowers,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174394867,click_flowers,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394868,click_flowers,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174394868,click_flowers,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394869,click_flowers,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174394872,click_flowers,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174394872,click_flowers,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174394873,click_flowers,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394874,click_flowers,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174394874,click_flowers,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394875,click_flowers,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174394876,click_flowers,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174394878,click_flowers,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174394879,click_flowers,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394879,click_flowers,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174394880,click_flowers,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394880,click_flowers,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174394881,click_flowers,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174394882,click_flowers,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174394883,click_flowers,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394883,click_flowers,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174394884,click_flowers,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394884,click_flowers,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174394886,click_flowers,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174394886,click_flowers,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174394887,click_flowers,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394888,click_flowers,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174394889,click_flowers,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394889,click_flowers,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174394890,click_flowers,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174394890,click_flowers,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174394891,click_flowers,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394891,click_flowers,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174394892,click_flowers,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394892,click_flowers,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174394893,click_flowers,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174394895,click_flowers,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174394895,click_flowers,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394896,click_flowers,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174394896,click_flowers,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174394897,click_flowers,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174394898,click_flowers,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174394898,click_flowers,ShoppingBean calls CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395031,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395032,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395033,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395034,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395034,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395035,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395036,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395037,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395037,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395038,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395038,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395039,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395041,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395041,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395042,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395042,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395042,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395043,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395044,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395045,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395045,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395046,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395046,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395047,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395047,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395048,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395049,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395049,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395050,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395051,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395053,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395053,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395054,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395054,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395055,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395056,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395056,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395057,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395058,click_flowers,CatalogMgr calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001]
+1589174395059,click_flowers,Inventory returns to CatalogMgr,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:Inventory [overloaded_#001],plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory
+1589174395059,click_flowers,CatalogMgr returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/CatalogMgr.java:CatalogMgr:getItemsByCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395060,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395060,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395062,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395062,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395063,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395064,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395065,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395065,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395066,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395066,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395066,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395067,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395067,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395068,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395069,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395069,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395070,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395070,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395070,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395071,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395071,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395071,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395072,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395072,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395073,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395074,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395074,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395074,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395075,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395076,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395076,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395077,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395079,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395080,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395080,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395080,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395081,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395081,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395082,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395082,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395082,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395083,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395083,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395083,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395084,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395084,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395085,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395086,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395086,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395087,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395088,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395088,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395089,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395090,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395090,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395091,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395091,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395091,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395092,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395092,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395093,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395093,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395094,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395094,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395095,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395095,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395095,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395095,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395095,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395095,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395095,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395095,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395095,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395095,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395095,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395095,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395095,click_flowers,ShoppingBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic
+1589174395095,click_flowers,Inventory returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:isPublic,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395095,click_flowers,ShoppingBean calls ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean
+1589174395095,click_flowers,ProductBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping
+1589174395096,click_flowers,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:performShopping,<None>:Root:<None>
+1589174395167,click_flowers,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getProducts
+1589174395168,click_flowers,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getProducts,<None>:Root:<None>
+1589174395267,click_flowers,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174395270,click_flowers,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174395273,click_flowers,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174395279,click_flowers,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174395280,click_flowers,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174395281,click_flowers,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174395284,click_flowers,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174395287,click_flowers,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174395289,click_flowers,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174395290,click_flowers,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174395292,click_flowers,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174395297,click_flowers,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174395298,click_flowers,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174395299,click_flowers,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174395300,click_flowers,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174395301,click_flowers,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174395302,click_flowers,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174395303,click_flowers,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174395472,click_flowers,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getProducts
+1589174395473,click_flowers,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getProducts,<None>:Root:<None>
+1589174395479,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getCategoryName
+1589174395481,click_flowers,ProductBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getCategoryName,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getCategory
+1589174395481,click_flowers,Inventory returns to ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getCategory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getCategoryName
+1589174395482,click_flowers,ProductBean calls Util,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getCategoryName,plants/src/main/java/com/ibm/websphere/samples/pbw/utils/Util.java:Util:getCategoryString
+1589174395482,click_flowers,Util returns to ProductBean,plants/src/main/java/com/ibm/websphere/samples/pbw/utils/Util.java:Util:getCategoryString,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getCategoryName
+1589174395483,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getCategoryName,<None>:Root:<None>
+1589174395488,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395489,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395520,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395526,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395531,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395541,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395542,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395542,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395543,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395544,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395544,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395546,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395547,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395548,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395548,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395550,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395559,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395560,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395560,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395561,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395562,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395563,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395564,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395564,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395565,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395565,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395566,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395566,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395567,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395567,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395568,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395569,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395570,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395577,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395579,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395580,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395581,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395581,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395582,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395583,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395585,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395585,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395589,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395590,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395591,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395591,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395592,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395592,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395593,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395593,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395594,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395594,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395596,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395597,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395598,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395599,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395601,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395602,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395605,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395607,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395608,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395609,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395623,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395624,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395625,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395626,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395627,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395628,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395636,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395638,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395639,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395642,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395644,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395646,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395647,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395648,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395649,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395661,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395662,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395663,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395664,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395664,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395664,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395665,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395665,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395666,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395666,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395667,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395667,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395668,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395668,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395669,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395670,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395671,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395671,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395672,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395673,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395686,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395689,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395705,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395706,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395706,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395707,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395707,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395709,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395711,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395718,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395725,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395727,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395728,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395729,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395729,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395732,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395732,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395734,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395735,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395743,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395744,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395747,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395748,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395749,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395750,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395750,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395751,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395752,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395755,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395756,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395756,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395757,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395757,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395758,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395758,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395758,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395758,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395758,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395758,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395758,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395758,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395758,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395758,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395759,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395759,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395759,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395759,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395759,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395759,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395759,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395759,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395760,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395760,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395760,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395760,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395767,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395779,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395780,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395780,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395781,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395791,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395793,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395796,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395812,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395814,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395815,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395816,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395816,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395817,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395817,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395818,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395821,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395823,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395842,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395844,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395845,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395846,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395847,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395847,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395848,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395849,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395849,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395850,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395850,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395851,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395852,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395852,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395857,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395858,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395859,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395871,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395875,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395875,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395881,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395884,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395885,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395889,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395889,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395890,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395890,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395891,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395891,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395891,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395893,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395894,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395894,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395894,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395896,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395897,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395899,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395899,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395901,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395916,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395918,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174395918,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174395922,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395923,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395931,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395932,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395934,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395938,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395939,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395941,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395942,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395958,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395964,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174395973,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174395981,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174395999,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174395999,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396000,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396023,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396024,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396026,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396027,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396034,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396035,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396036,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396041,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396042,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396043,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396043,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396044,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396045,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396046,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396046,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396046,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396048,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396048,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396048,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396049,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396050,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396050,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396051,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396051,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396052,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396052,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396052,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396053,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396055,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396056,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396057,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396057,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396058,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396058,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396059,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396059,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396060,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396060,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396060,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396061,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396065,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396067,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396069,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396071,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396077,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396078,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396079,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396080,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396081,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396082,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396082,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396083,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396084,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396084,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396085,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396085,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396092,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396093,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396094,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396095,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396098,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396099,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396101,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396117,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396118,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396121,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396122,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396122,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396124,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396134,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396135,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396136,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396142,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396151,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396151,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396151,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396153,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396165,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396167,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396167,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396188,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396191,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396192,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396193,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396197,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396197,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396198,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396199,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396199,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396200,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396200,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396201,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396203,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396211,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396211,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396212,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396213,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396216,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396218,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396219,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396221,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396227,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396244,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396245,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396255,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396263,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396264,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396265,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396267,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396275,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396278,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396279,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396286,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396287,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396288,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396288,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396297,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396301,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396304,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396306,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396310,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396322,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396324,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396325,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396326,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396334,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396347,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396350,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396352,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396355,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396356,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396356,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396356,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396356,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396357,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396357,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396358,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396359,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396360,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396360,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396361,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396364,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396365,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396366,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396368,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396371,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396372,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396373,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396378,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396382,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396385,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396402,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396417,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396422,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396423,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396423,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396428,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396434,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396454,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396459,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396460,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396462,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396466,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396466,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396468,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396469,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396470,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396472,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396474,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396481,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396486,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396491,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396495,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396495,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396495,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396499,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396500,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396500,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396501,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396501,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396503,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396504,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396505,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396508,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396509,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396510,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396510,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396511,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396512,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396512,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396513,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396515,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396516,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396516,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396519,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396521,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396523,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396524,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396525,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396526,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396527,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396528,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396529,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396530,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396566,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396572,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396573,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396575,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396576,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396576,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396577,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396589,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396600,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396601,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396602,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396603,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396604,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396619,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396628,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396629,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396638,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396639,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396640,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396641,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396642,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396642,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396642,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396643,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396647,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396651,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396653,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396656,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396659,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396660,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396664,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396665,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>
+1589174396666,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396666,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396667,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396667,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396668,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396669,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396669,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396669,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396670,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396671,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396671,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589174396672,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,<None>:Root:<None>
+1589174396672,click_flowers,Root calls ProductBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory
+1589174396673,click_flowers,ProductBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ProductBean.java:ProductBean:getInventory,<None>:Root:<None>
+1589174396673,click_flowers,Root calls Inventory,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId
+1589174396674,click_flowers,Inventory returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getInventoryId,<None>:Root:<None>

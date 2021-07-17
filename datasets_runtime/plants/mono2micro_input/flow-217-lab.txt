@@ -1,0 +1,30 @@
+1589174204166,click_sign_in_1,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174204168,click_sign_in_1,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174204168,click_sign_in_1,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174204168,click_sign_in_1,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174204171,click_sign_in_1,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174204172,click_sign_in_1,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174204173,click_sign_in_1,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174204173,click_sign_in_1,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174204210,click_sign_in_1,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174204212,click_sign_in_1,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174204213,click_sign_in_1,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174204213,click_sign_in_1,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174204213,click_sign_in_1,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174204213,click_sign_in_1,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174204215,click_sign_in_1,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174204215,click_sign_in_1,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174204216,click_sign_in_1,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174204216,click_sign_in_1,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174204216,click_sign_in_1,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174204216,click_sign_in_1,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174204222,click_sign_in_1,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174204222,click_sign_in_1,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174204225,click_sign_in_1,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174204225,click_sign_in_1,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174204225,click_sign_in_1,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174204226,click_sign_in_1,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174204396,click_sign_in_1,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174204396,click_sign_in_1,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174204397,click_sign_in_1,Root calls LoginInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:getMessage
+1589174204398,click_sign_in_1,LoginInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:getMessage,<None>:Root:<None>

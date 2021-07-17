@@ -1,0 +1,2 @@
+1589168944642,pingwebsocketbinary,Root calls PingWebSocketBinary,<None>:Root:<None>,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingWebSocketBinary.java:PingWebSocketBinary:onOpen
+1589168944642,pingwebsocketbinary,PingWebSocketBinary returns to Root,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingWebSocketBinary.java:PingWebSocketBinary:onOpen,<None>:Root:<None>

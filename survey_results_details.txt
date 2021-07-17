@@ -1,0 +1,223 @@
+===========================
+Survey Information.
+===========================
+A. What is your current job role?
+
+Developer: 15.8%	
+Software Architect: 21.1%	
+Manager:	5.3%	
+Other - Write In: 57.9% (Tech Sales, CSM, CTO, Consultant, Customer Success Manager, DEVOPS, Enterprise Architect)
+--------------------------------------------------------------------
+B. How many years of experience do you have in software industry?
+
+1-3: 5.3%	
+5-10: 10.5%	
+10+: 84.2%	
+--------------------------------------------------------------------
+C. How many years of experience do you have in microservices development/Architecture?
+
+1: 15.8%
+2: 10.5%
+3: 26.3%
+4: 10.5%
+5+:	36.8%
+
+====================================
+Preliminary Information
+====================================
+Q1. How long have you used Mono2Micro? 
+
+1-2 months: 42.1%
+9-12months: 21.1%
+less than a month: 15.8%
+2-6months: 10.5%
+6-9 months: 10.5%
+--------------------------------------------------------------------
+Q2. How many applications have you analyzed with Mono2Micro?
+
+one application: 31.6%
+2-3 applications: 36.8%
+3-5 applications: 10.5%
+5-10 applications: 10.5%
+10+ applications: 10.5%
+--------------------------------------------------------------------
+Q3. What kinds of applications have you analyzed with Mono2Micro?
+
+Sample Applications: 73.7%
+Proof of Concept Applications: 52.6%
+Production Applications: 36.8%
+Open Source Applications: 31.6%
+--------------------------------------------------------------------
+Q4. What kind of supporting resources for Mono2Micro have you used?
+
+IBM.com Articles: 47.4%
+Live Demo: 52.6%
+Product Documentation (IBM Mono2MIcro User guide): 84.2%
+IBM hosted workshop/tutorial: 68.4%
+--------------------------------------------------------------------
+Q5. What application decomposition tools have you used in addition to Mono2Micro?
+
+None (majority), ADDI, Cast for analysis, binary scanner Transformation Advisor eclipse, sonargraph tools for visualization
+
+====================================
+Architectural Decisions
+====================================
+Q6. Is Mono2Micro helpful in implementing the Strangler pattern when decomposing applications?
+
+Strongly Disagree	Disagree	Undecided	Agree	Strongly Agree
+0.0%				0.0%		21.4%		57.1%	21.4%
+--------------------------------------------------------------------
+Q7. Is Mono2Micro helpful in implementing a Domain-Driven Design (DDD) Pattern when decomposing applications?
+
+Strongly Disagree	Disagree	Undecided	Agree	Strongly Agree
+0.0%	 			16.7%		41.7%		16.7%		25.0%
+--------------------------------------------------------------------
+Q8. Do the partitions created by Mono2Micro are aligned with Business functionality of the applications?
+
+Strongly Disagree	Disagree	Undecided	Agree	Strongly Agree
+0.0%				7.7%		23.1%		53.8%	15.4%
+--------------------------------------------------------------------
+Q9. Which of the following relationship types are most important to decomposing your application? 
+
+Not at all important	Slightly important	Neutral	Moderately important	Extremely important
+a. Structural 
+
+Not at all important	Slightly important	Neutral		Moderately important	Extremely important
+0.0%					7.1%				14.3%		14.3%					64.3%
+
+b. Semantic 
+
+Not at all important	Slightly important	Neutral		Moderately important	Extremely important
+7.1%	 				0.0%				35.7%		28.6%					28.6%
+
+c. Evolutionary.
+
+Not at all important	Slightly important	Neutral		Moderately important	Extremely important
+0.0%					0.0%				28.6%		21.4%					50.0%
+--------------------------------------------------------------------
+Q10. Which of the following factors Mono2Micro should consider apart from runtime traces and use cases?
+
+a. Static call graphs
+
+Not at all important	Slightly important	Neutral		Moderately important	Extremely important
+0.0%					0.0%				14.3%		35.7%					50.0%
+
+b. Semantic Relations
+
+Not at all important	Slightly important	Neutral		Moderately important	Extremely important
+7.1%					21.4%				35.7%		21.4%					14.3%
+
+c. Change history
+
+Not at all important	Slightly important	Neutral		Moderately important	Extremely important
+15.4%					7.7%				38.5%		15.4%					23.1%
+
+d. Commit similarity
+
+Not at all important	Slightly important	Neutral		Moderately important	Extremely important
+7.1%					7.1%				42.9%		21.4%					21.4%
+
+e. Contributor similarity
+
+Not at all important	Slightly important	Neutral		Moderately important	Extremely important
+7.1%					14.3%				42.9%		21.4%					14.3%
+
+f. Database interactions patterns
+
+Not at all important	Slightly important	Neutral		Moderately important	Extremely important
+0.0%					0.0%				7.1%		28.6%					64.3%
+
+
+g. Database transactions
+
+Not at all important	Slightly important	Neutral		Moderately important	Extremely important
+0.0%					0.0%				14.3%		21.4%					64.3%
+
+
+====================================
+Running Mono2Micro
+====================================
+
+Q11. The partitions generated by Mono2Micro support independent or mutually exclusive business functionalities?
+
+Strongly Disagree	Disagree	Neutral		Agree	Strongly Agree
+0.0%					0.0%	28.6%		50.0%	21.4%
+
+--------------------------------------------------------------------
+Q12. If dependencies exist in business functionalities across partitions, what are the main reasons? 
+
+1. strong coupling
+2. Inheritance of these classes and database interactions.
+3. interdependennt operations, i.e. some operations need validation from other business cases hence multiple calls migh be made
+4. shared classes underlying technical components (like notifications framework)
+
+--------------------------------------------------------------------
+Q13. Did the tool’s recommendation provides newperspective to your application that you find useful? If yes/no/maybe, in what way?
+
+1. yes, first it analyze code to find coupling, second graph and micoroservices
+2. yes, the interactions got much more clear
+3. Yes,
+4. yes, was able to understand interoperability and compositions quickly
+5. Maybe Shared components reduced visibility use case coverage and old-code causing missing analysis.
+6. The visualisation is helpful.
+
+--------------------------------------------------------------------
+Q14. When collecting traces did you execute the application use cases manually or did you have an automated suite of functional test cases?
+
+Manually: 78.6%	
+Automated: 21.4%
+
+--------------------------------------------------------------------
+Q15. Which experiences with use cases and Mono2Micro matches your experience?
+
+1. The use cases and unobserved classes matched up with our expectations: 54.5%
+2. A gap in existing test use cases coverage was found: 54.5%
+3. Potentially dead/unreachable code was found: 63.6%
+
+====================================
+Performance, Explanability & Configurations
+====================================
+
+Q16. Did you find the “explainability” of partitions, as indicated by use-case labels, to be valuable?
+
+Not very valuable: 15.4%
+Moderately valuable: 23.1%
+Valuable: 53.8%	
+Very valuable: 7.7%
+
+--------------------------------------------------------------------
+Q17. How many and what kind of changes did you make to the original partition suggestions?
+
+None: 7.7%
+A few minor changes: 30.8%
+Some minor changes and some major changes: 38.5%
+A lot of major changes: 23.1%
+
+--------------------------------------------------------------------
+Q18. What kinds of changes did you make?
+
+Renamed Partitions: 33.3%
+Moved classes between suggested partitions: 58.3%
+Moved unobserved classes to suggested partitions: 50.0%
+Created new partitions: 41.7%
+
+--------------------------------------------------------------------
+Q19. When you chose the number of partitions which was more valuable to you? a. Less than 5, b. The default 5, c. More than 5.
+
+Less than 5: 33.3%
+The default 5: 50.0%
+More than 5: 16.7%
+
+--------------------------------------------------------------------
+Q20. Why the partition size you chose was valuable?
+
+1. Did not want to end up in too many microservices
+2. Most customers expecting that the number of partitions will be more than 5.
+3. our application is relatively large with multiple domain services coded in.
+
+--------------------------------------------------------------------
+Q21. Do you agree if Mono2Micro is fast enough to generate recommendations that it does not slowdown my workflow?
+
+Strongly Disagree	Disagree	Neutral		Agree	Strongly Agree
+8.3%				0.0%		33.3%		16.7%	41.7%
+

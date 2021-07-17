@@ -1,0 +1,8 @@
+1589149393039,load_database,Root calls LoaderREST,<None>:Root:<None>,acmeair/src/main/java/com/acmeair/config/LoaderREST.java:LoaderREST:queryLoader
+1589149393044,load_database,LoaderREST calls Loader,acmeair/src/main/java/com/acmeair/config/LoaderREST.java:LoaderREST:queryLoader,acmeair/src/main/java/com/acmeair/loader/Loader.java:Loader:queryLoader
+1589149393049,load_database,Loader calls Loader,acmeair/src/main/java/com/acmeair/loader/Loader.java:Loader:queryLoader,acmeair/src/main/java/com/acmeair/loader/Loader.java:Loader:lookupDefaults
+1589149393050,load_database,Loader calls Loader,acmeair/src/main/java/com/acmeair/loader/Loader.java:Loader:lookupDefaults,acmeair/src/main/java/com/acmeair/loader/Loader.java:Loader:getProperties
+1589149393055,load_database,Loader returns to Loader,acmeair/src/main/java/com/acmeair/loader/Loader.java:Loader:getProperties,acmeair/src/main/java/com/acmeair/loader/Loader.java:Loader:lookupDefaults
+1589149393055,load_database,Loader returns to Loader,acmeair/src/main/java/com/acmeair/loader/Loader.java:Loader:lookupDefaults,acmeair/src/main/java/com/acmeair/loader/Loader.java:Loader:queryLoader
+1589149393056,load_database,Loader returns to LoaderREST,acmeair/src/main/java/com/acmeair/loader/Loader.java:Loader:queryLoader,acmeair/src/main/java/com/acmeair/config/LoaderREST.java:LoaderREST:queryLoader
+1589149393058,load_database,LoaderREST returns to Root,acmeair/src/main/java/com/acmeair/config/LoaderREST.java:LoaderREST:queryLoader,<None>:Root:<None>

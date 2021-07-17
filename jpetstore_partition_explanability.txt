@@ -1,0 +1,50 @@
+================================================================================================
+Partition: init
+
+Classes: 
+
+ListOrdersController, ViewOrderController, SignoffController, SignonInterceptor, SearchProductsController, ViewItemController, ViewCartController
+
+Use Cases:
+
+<init>, <init, search>, <init, select_item>, <logout_user>, <init, click_item, checkout_item>, <login_user, click_account, order_item, checkout_item, submit_payment>
+================================================================================================
+Partition: item
+
+Classes:
+
+RemoveItemFromCartController, AddItemToCartController, UpdateCartQuantitiesController, ViewProductController, SqlMapItemDao, CartItem, Cart, Item
+
+Use Cases:
+
+<remove_item>, <add_item>, <click_item, update_cart>, <init, select_item>, <select_item, add_item, order_item>,  <login_user, add_item, remove_item, update_cart, checkout_item>
+================================================================================================
+Partition: register
+
+Classes:
+
+SignonController, AccountValidator, AccountForm, SqlMapAccountDao, AccountFormController, UserSession 
+
+Use Cases:
+<init, login_user>, <register_user, submit_user>, <register_user, submit_user, click_account>, <register_user, submit_user, login_user, click_account, checkout_item>, <init, register_user, submit_user, click_account>, <register_user, submit_user, login_user, click_account, click_item, checkout_item>, <register_user, submit_user, login_user, click_account, click_item, checkout_item, order_item, remove_item>
+
+================================================================================================
+Partition: order
+
+Classes:
+order & SqlMapSequenceDao, Sequence, SqlMapOrderDao, LineItem, OrderValidator, OrderForm, Order, OrderFormController 
+
+Use Cases:
+<order_item>, <init, order_item>, <order_item, submit_payment>, <login_user, order_item, checkout_item, submit_payment>, <init, login_user, order_item, checkout_item, submit_payment>\\
+
+================================================================================================
+Partition: browse
+
+
+Classes:
+ViewCategoryController, SqlMapCategoryDao, Category, SqlMapProductDao, PetStoreImpl, Product
+
+Use Cases:
+ <init, click_item>, <register_user, click_item>, <register_user, submit_user, login_user, search, click_item, select_item>, <init, register_user, submit_user, login_user, search, click_item, select_item, add_item, checkout_item>, <init, register_user, submit_user, login_user, search, click_item, select_item, add_item, checkout_item, remove_item, update_cart>
+
+================================================================================================

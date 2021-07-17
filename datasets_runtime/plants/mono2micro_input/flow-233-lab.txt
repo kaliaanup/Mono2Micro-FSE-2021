@@ -1,0 +1,146 @@
+1589174256150,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174256150,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174256151,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174256151,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174256154,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174256155,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174256156,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174256156,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174256156,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174256156,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174256157,Unknown,Root calls LoginInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:getPassword
+1589174256157,Unknown,LoginInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:getPassword,<None>:Root:<None>
+1589174256159,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174256159,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174256160,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174256160,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174256162,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo
+1589174256163,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getLoginInfo,<None>:Root:<None>
+1589174256163,Unknown,Root calls LoginInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:getCheckPassword
+1589174256164,Unknown,LoginInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/LoginInfo.java:LoginInfo:getCheckPassword,<None>:Root:<None>
+1589174256165,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256165,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256166,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256166,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256167,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256167,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256168,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256168,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256171,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256171,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256172,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256172,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256172,Unknown,Root calls Customer,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getFirstName
+1589174256173,Unknown,Customer returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getFirstName,<None>:Root:<None>
+1589174256174,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256174,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256174,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256175,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256175,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256175,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256175,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256176,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256177,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256177,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256177,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256178,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256178,Unknown,Root calls Customer,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getLastName
+1589174256178,Unknown,Customer returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getLastName,<None>:Root:<None>
+1589174256181,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256181,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256182,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256182,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256184,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256184,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256185,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256185,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256186,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256186,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256186,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256186,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256189,Unknown,Root calls Customer,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddr1
+1589174256189,Unknown,Customer returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddr1,<None>:Root:<None>
+1589174256191,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256191,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256191,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256191,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256192,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256192,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256192,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256192,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256192,Unknown,Root calls Customer,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddr2
+1589174256193,Unknown,Customer returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddr2,<None>:Root:<None>
+1589174256194,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256194,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256194,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256195,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256197,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256197,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256197,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256198,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256199,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256200,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256200,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256200,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256201,Unknown,Root calls Customer,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddrCity
+1589174256201,Unknown,Customer returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddrCity,<None>:Root:<None>
+1589174256202,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256203,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256203,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256203,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256204,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256205,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256205,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256206,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256208,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256208,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256209,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256210,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256211,Unknown,Root calls Customer,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddrState
+1589174256211,Unknown,Customer returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddrState,<None>:Root:<None>
+1589174256214,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256214,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256214,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256214,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256215,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256215,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256215,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256215,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256216,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256217,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256217,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256217,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256217,Unknown,Root calls Customer,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddrZip
+1589174256217,Unknown,Customer returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getAddrZip,<None>:Root:<None>
+1589174256219,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256220,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256220,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256220,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256222,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256222,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256222,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256223,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256224,Unknown,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256225,Unknown,AccountBean calls AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister
+1589174256225,Unknown,AccountBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:isRegister,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer
+1589174256225,Unknown,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getCustomer,<None>:Root:<None>
+1589174256225,Unknown,Root calls Customer,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getPhone
+1589174256225,Unknown,Customer returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Customer.java:Customer:getPhone,<None>:Root:<None>
+1589174256276,Unknown,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174256277,Unknown,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174256278,Unknown,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174256282,Unknown,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174256283,Unknown,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174256283,Unknown,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174256284,Unknown,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174256284,Unknown,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174256286,Unknown,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174256286,Unknown,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174256286,Unknown,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174256287,Unknown,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589174256287,Unknown,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589174256288,Unknown,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589174256289,Unknown,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174256290,Unknown,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589174256291,Unknown,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589174256291,Unknown,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>

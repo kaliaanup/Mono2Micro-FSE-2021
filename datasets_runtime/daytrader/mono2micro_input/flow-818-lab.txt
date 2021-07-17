@@ -1,0 +1,2 @@
+1589168896769,pingwebsockettextasync,Root calls PingWebSocketTextAsync,<None>:Root:<None>,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingWebSocketTextAsync.java:PingWebSocketTextAsync:onOpen
+1589168896771,pingwebsockettextasync,PingWebSocketTextAsync returns to Root,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingWebSocketTextAsync.java:PingWebSocketTextAsync:onOpen,<None>:Root:<None>

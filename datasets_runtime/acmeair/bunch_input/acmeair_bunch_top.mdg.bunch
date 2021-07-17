@@ -1,0 +1,2 @@
+SS(RESTCookieSessionFilter.ss) = CustomerREST, CustomerInfo, CustomerService, LoginREST, AddressInfo, AcmeAirApp, RESTCookieSessionFilter, BookingsREST, AuthService, ServiceLocator, FlightService, FlightsREST, AcmeAirConfiguration, SessionLoader, BookingLoader, Loader, LoaderREST
+SS(FlightServiceImpl.ss) = FlightServiceImpl, FlightLoader, AirportCodeMapping, KeyGenerator, CustomerServiceImpl, CustomerLoader, AuthServiceImpl, ConnectionManager, BookingServiceImpl

@@ -1,0 +1,4 @@
+1589168427425,explicti_gc,Root calls ExplicitGC,<None>:Root:<None>,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/ExplicitGC.java:ExplicitGC:init
+1589168427427,explicti_gc,ExplicitGC returns to Root,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/ExplicitGC.java:ExplicitGC:init,<None>:Root:<None>
+1589168427428,explicti_gc,Root calls ExplicitGC,<None>:Root:<None>,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/ExplicitGC.java:ExplicitGC:doGet
+1589168427750,explicti_gc,ExplicitGC returns to Root,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/ExplicitGC.java:ExplicitGC:doGet,<None>:Root:<None>

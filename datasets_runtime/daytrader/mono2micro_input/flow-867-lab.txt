@@ -1,0 +1,4 @@
+1589169034402,pingmanagedexecutor,Root calls PingManagedExecutor,<None>:Root:<None>,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingManagedExecutor.java:PingManagedExecutor:init
+1589169034403,pingmanagedexecutor,PingManagedExecutor returns to Root,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingManagedExecutor.java:PingManagedExecutor:init,<None>:Root:<None>
+1589169034403,pingmanagedexecutor,Root calls PingManagedExecutor,<None>:Root:<None>,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingManagedExecutor.java:PingManagedExecutor:doGet
+1589169034404,pingmanagedexecutor,PingManagedExecutor returns to Root,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingManagedExecutor.java:PingManagedExecutor:doGet,<None>:Root:<None>

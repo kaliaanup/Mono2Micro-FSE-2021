@@ -1,0 +1,4 @@
+1589169048235,pingjsonp,Root calls PingJSONP,<None>:Root:<None>,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingJSONP.java:PingJSONP:init
+1589169048236,pingjsonp,PingJSONP returns to Root,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingJSONP.java:PingJSONP:init,<None>:Root:<None>
+1589169048238,pingjsonp,Root calls PingJSONP,<None>:Root:<None>,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingJSONP.java:PingJSONP:doGet
+1589169048241,pingjsonp,PingJSONP returns to Root,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingJSONP.java:PingJSONP:doGet,<None>:Root:<None>

@@ -1,0 +1,4 @@
+1589168708287,pinghttpsession2,Root calls PingSession3,<None>:Root:<None>,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingSession3.java:PingSession3:init
+1589168708288,pinghttpsession2,PingSession3 returns to Root,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingSession3.java:PingSession3:init,<None>:Root:<None>
+1589168708288,pinghttpsession2,Root calls PingSession3,<None>:Root:<None>,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingSession3.java:PingSession3:doGet
+1589168708290,pinghttpsession2,PingSession3 returns to Root,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingSession3.java:PingSession3:doGet,<None>:Root:<None>

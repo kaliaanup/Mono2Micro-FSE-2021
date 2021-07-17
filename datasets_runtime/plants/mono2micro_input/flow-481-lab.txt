@@ -1,0 +1,408 @@
+1589175053154,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053154,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053155,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getCardExpYears
+1589175053155,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getCardExpYears,<None>:Root:<None>
+1589175053163,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053164,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053164,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053165,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053167,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053168,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053168,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillName
+1589175053169,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillName,<None>:Root:<None>
+1589175053170,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053170,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053171,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053172,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053173,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053174,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053175,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillAddr1
+1589175053175,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillAddr1,<None>:Root:<None>
+1589175053176,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053177,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053180,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053180,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053181,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillAddr2
+1589175053181,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillAddr2,<None>:Root:<None>
+1589175053184,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053184,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053185,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053185,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053187,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053187,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053188,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillCity
+1589175053188,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillCity,<None>:Root:<None>
+1589175053189,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053189,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053191,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053191,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053192,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053192,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053192,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillState
+1589175053192,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillState,<None>:Root:<None>
+1589175053193,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053193,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053193,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053193,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053194,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053194,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053194,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillZip
+1589175053194,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillZip,<None>:Root:<None>
+1589175053195,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053195,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053195,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053195,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053196,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053196,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053196,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillPhone
+1589175053196,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillPhone,<None>:Root:<None>
+1589175053197,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053197,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053197,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053198,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053199,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053199,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053199,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipName
+1589175053200,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipName,<None>:Root:<None>
+1589175053201,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053201,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053201,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053201,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053202,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053202,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053202,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipAddr1
+1589175053203,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipAddr1,<None>:Root:<None>
+1589175053203,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053203,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053204,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053204,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053204,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipAddr2
+1589175053204,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipAddr2,<None>:Root:<None>
+1589175053204,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053204,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053205,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053205,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053206,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053206,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053206,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipCity
+1589175053206,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipCity,<None>:Root:<None>
+1589175053208,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053208,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053209,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053209,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053210,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053210,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053210,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipState
+1589175053210,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipState,<None>:Root:<None>
+1589175053211,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053211,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053212,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053212,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053213,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053213,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053213,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipZip
+1589175053213,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipZip,<None>:Root:<None>
+1589175053214,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053214,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053214,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053214,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053215,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053216,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053216,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipPhone
+1589175053216,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipPhone,<None>:Root:<None>
+1589175053218,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053218,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053219,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053219,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053220,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053220,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053220,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethodName
+1589175053220,continue_checkout_3,OrderInfo calls OrderInfo,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethodName,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethods
+1589175053220,continue_checkout_3,OrderInfo calls Util,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethods,plants/src/main/java/com/ibm/websphere/samples/pbw/utils/Util.java:Util:getFullShippingMethodStrings
+1589175053221,continue_checkout_3,Util returns to OrderInfo,plants/src/main/java/com/ibm/websphere/samples/pbw/utils/Util.java:Util:getFullShippingMethodStrings,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethods
+1589175053221,continue_checkout_3,OrderInfo returns to OrderInfo,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethods,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethodName
+1589175053221,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethodName,<None>:Root:<None>
+1589175053222,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053222,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053223,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053223,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053225,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053225,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053225,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getCardName
+1589175053225,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getCardName,<None>:Root:<None>
+1589175053226,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053226,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053226,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053226,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053227,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053227,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053227,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getCardNum
+1589175053227,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getCardNum,<None>:Root:<None>
+1589175053228,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053228,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053228,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053229,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053230,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053230,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053230,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getCardExpMonth
+1589175053230,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getCardExpMonth,<None>:Root:<None>
+1589175053231,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053231,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053231,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053231,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053232,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053233,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053233,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getCardExpYear
+1589175053233,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getCardExpYear,<None>:Root:<None>
+1589175053234,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053235,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053235,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053235,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053236,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053236,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053236,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getCardholderName
+1589175053237,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getCardholderName,<None>:Root:<None>
+1589175053238,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053238,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053239,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setBillName
+1589175053239,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setBillName,<None>:Root:<None>
+1589175053239,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053239,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053239,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setBillAddr1
+1589175053240,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setBillAddr1,<None>:Root:<None>
+1589175053240,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053240,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053240,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setBillAddr2
+1589175053241,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setBillAddr2,<None>:Root:<None>
+1589175053242,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053242,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053242,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setBillCity
+1589175053242,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setBillCity,<None>:Root:<None>
+1589175053243,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053243,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053243,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setBillState
+1589175053243,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setBillState,<None>:Root:<None>
+1589175053243,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053243,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053243,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setBillZip
+1589175053243,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setBillZip,<None>:Root:<None>
+1589175053244,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053244,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053244,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setBillPhone
+1589175053244,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setBillPhone,<None>:Root:<None>
+1589175053245,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053245,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053246,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShipName
+1589175053246,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShipName,<None>:Root:<None>
+1589175053247,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053247,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053247,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShipAddr1
+1589175053247,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShipAddr1,<None>:Root:<None>
+1589175053247,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053247,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053248,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShipAddr2
+1589175053248,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShipAddr2,<None>:Root:<None>
+1589175053248,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053248,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053248,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShipCity
+1589175053249,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShipCity,<None>:Root:<None>
+1589175053250,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053250,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053250,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShipState
+1589175053251,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShipState,<None>:Root:<None>
+1589175053251,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053251,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053251,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShipZip
+1589175053252,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShipZip,<None>:Root:<None>
+1589175053252,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053252,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053252,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShipPhone
+1589175053253,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShipPhone,<None>:Root:<None>
+1589175053253,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053253,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053253,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShippingMethodName
+1589175053253,continue_checkout_3,OrderInfo calls Util,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShippingMethodName,plants/src/main/java/com/ibm/websphere/samples/pbw/utils/Util.java:Util:getShippingMethodStrings
+1589175053253,continue_checkout_3,Util returns to OrderInfo,plants/src/main/java/com/ibm/websphere/samples/pbw/utils/Util.java:Util:getShippingMethodStrings,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShippingMethodName
+1589175053253,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setShippingMethodName,<None>:Root:<None>
+1589175053254,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053254,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053254,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setCardName
+1589175053254,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setCardName,<None>:Root:<None>
+1589175053255,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053255,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053255,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setCardNum
+1589175053255,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setCardNum,<None>:Root:<None>
+1589175053256,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053256,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053256,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setCardExpMonth
+1589175053257,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setCardExpMonth,<None>:Root:<None>
+1589175053258,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053258,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053258,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setCardExpYear
+1589175053259,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setCardExpYear,<None>:Root:<None>
+1589175053259,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053259,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053260,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setCardholderName
+1589175053260,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:setCardholderName,<None>:Root:<None>
+1589175053261,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performCheckoutFinal
+1589175053261,continue_checkout_3,AccountBean calls OrderInfo,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performCheckoutFinal,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethod
+1589175053262,continue_checkout_3,OrderInfo returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethod,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performCheckoutFinal
+1589175053262,continue_checkout_3,AccountBean calls Util,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performCheckoutFinal,plants/src/main/java/com/ibm/websphere/samples/pbw/utils/Util.java:Util:getShippingMethodPrice
+1589175053262,continue_checkout_3,Util returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/utils/Util.java:Util:getShippingMethodPrice,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performCheckoutFinal
+1589175053262,continue_checkout_3,AccountBean calls ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performCheckoutFinal,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:setShippingCost
+1589175053262,continue_checkout_3,ShoppingBean returns to AccountBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:setShippingCost,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performCheckoutFinal
+1589175053262,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:performCheckoutFinal,<None>:Root:<None>
+1589175053312,continue_checkout_3,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589175053312,continue_checkout_3,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589175053318,continue_checkout_3,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175053319,continue_checkout_3,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589175053319,continue_checkout_3,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175053319,continue_checkout_3,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589175053320,continue_checkout_3,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589175053321,continue_checkout_3,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589175053323,continue_checkout_3,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175053324,continue_checkout_3,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589175053324,continue_checkout_3,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175053328,continue_checkout_3,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589175053330,continue_checkout_3,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589175053330,continue_checkout_3,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589175053331,continue_checkout_3,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175053333,continue_checkout_3,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589175053333,continue_checkout_3,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175053333,continue_checkout_3,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589175053337,continue_checkout_3,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589175053337,continue_checkout_3,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589175053339,continue_checkout_3,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175053339,continue_checkout_3,ShoppingCartBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems
+1589175053339,continue_checkout_3,ShoppingCartBean returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getItems,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize
+1589175053340,continue_checkout_3,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSize,<None>:Root:<None>
+1589175053344,continue_checkout_3,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589175053345,continue_checkout_3,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589175053346,continue_checkout_3,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost
+1589175053346,continue_checkout_3,ShoppingCartBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getPrice
+1589175053346,continue_checkout_3,Inventory returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getPrice,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost
+1589175053346,continue_checkout_3,ShoppingCartBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getQuantity
+1589175053347,continue_checkout_3,Inventory returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getQuantity,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost
+1589175053347,continue_checkout_3,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost,<None>:Root:<None>
+1589175053519,continue_checkout_3,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getTotalCost
+1589175053521,continue_checkout_3,ShoppingBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getTotalCost,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost
+1589175053521,continue_checkout_3,ShoppingCartBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getPrice
+1589175053521,continue_checkout_3,Inventory returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getPrice,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost
+1589175053521,continue_checkout_3,ShoppingCartBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getQuantity
+1589175053522,continue_checkout_3,Inventory returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getQuantity,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost
+1589175053522,continue_checkout_3,ShoppingCartBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getTotalCost
+1589175053524,continue_checkout_3,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getTotalCost,<None>:Root:<None>
+1589175053569,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053569,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053570,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipName
+1589175053570,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipName,<None>:Root:<None>
+1589175053570,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053570,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053571,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipAddr1
+1589175053571,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipAddr1,<None>:Root:<None>
+1589175053572,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053572,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053572,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipAddr2
+1589175053572,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipAddr2,<None>:Root:<None>
+1589175053573,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053573,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053573,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipCity
+1589175053574,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipCity,<None>:Root:<None>
+1589175053575,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053575,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053576,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipState
+1589175053576,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipState,<None>:Root:<None>
+1589175053577,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053577,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053577,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipZip
+1589175053577,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipZip,<None>:Root:<None>
+1589175053580,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053580,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053580,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipPhone
+1589175053580,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShipPhone,<None>:Root:<None>
+1589175053588,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053589,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053589,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillName
+1589175053589,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillName,<None>:Root:<None>
+1589175053589,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053590,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053592,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillAddr1
+1589175053592,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillAddr1,<None>:Root:<None>
+1589175053593,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053593,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053594,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillAddr2
+1589175053594,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillAddr2,<None>:Root:<None>
+1589175053596,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053596,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053597,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillCity
+1589175053598,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillCity,<None>:Root:<None>
+1589175053599,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053599,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053600,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillState
+1589175053600,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillState,<None>:Root:<None>
+1589175053603,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053603,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053605,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillZip
+1589175053605,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillZip,<None>:Root:<None>
+1589175053606,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053606,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053606,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillPhone
+1589175053606,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getBillPhone,<None>:Root:<None>
+1589175053631,continue_checkout_3,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCartItems
+1589175053631,continue_checkout_3,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCartItems,<None>:Root:<None>
+1589175053645,continue_checkout_3,Root calls ShoppingItem,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getID
+1589175053645,continue_checkout_3,ShoppingItem calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getID,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getID
+1589175053645,continue_checkout_3,Inventory returns to ShoppingItem,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getID,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getID
+1589175053646,continue_checkout_3,ShoppingItem returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getID,<None>:Root:<None>
+1589175053647,continue_checkout_3,Root calls ShoppingItem,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getName
+1589175053647,continue_checkout_3,ShoppingItem calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getName,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName
+1589175053648,continue_checkout_3,Inventory returns to ShoppingItem,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getName,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getName
+1589175053648,continue_checkout_3,ShoppingItem returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getName,<None>:Root:<None>
+1589175053649,continue_checkout_3,Root calls ShoppingItem,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getPkginfo
+1589175053649,continue_checkout_3,ShoppingItem calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getPkginfo,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getPkginfo
+1589175053649,continue_checkout_3,Inventory returns to ShoppingItem,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getPkginfo,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getPkginfo
+1589175053649,continue_checkout_3,ShoppingItem returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getPkginfo,<None>:Root:<None>
+1589175053650,continue_checkout_3,Root calls ShoppingItem,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getQuantity
+1589175053652,continue_checkout_3,ShoppingItem calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getQuantity,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getQuantity
+1589175053652,continue_checkout_3,Inventory returns to ShoppingItem,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getQuantity,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getQuantity
+1589175053652,continue_checkout_3,ShoppingItem returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getQuantity,<None>:Root:<None>
+1589175053654,continue_checkout_3,Root calls ShoppingItem,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getPrice
+1589175053654,continue_checkout_3,ShoppingItem calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getPrice,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getPrice
+1589175053654,continue_checkout_3,Inventory returns to ShoppingItem,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getPrice,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getPrice
+1589175053655,continue_checkout_3,ShoppingItem returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getPrice,<None>:Root:<None>
+1589175053656,continue_checkout_3,Root calls ShoppingItem,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getSubtotalPrice
+1589175053656,continue_checkout_3,ShoppingItem calls ShoppingItem,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getSubtotalPrice,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getPrice
+1589175053657,continue_checkout_3,ShoppingItem calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getPrice,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getPrice
+1589175053660,continue_checkout_3,Inventory returns to ShoppingItem,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getPrice,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getPrice
+1589175053661,continue_checkout_3,ShoppingItem returns to ShoppingItem,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getPrice,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getSubtotalPrice
+1589175053661,continue_checkout_3,ShoppingItem calls ShoppingItem,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getSubtotalPrice,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getQuantity
+1589175053661,continue_checkout_3,ShoppingItem calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getQuantity,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getQuantity
+1589175053661,continue_checkout_3,Inventory returns to ShoppingItem,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getQuantity,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getQuantity
+1589175053661,continue_checkout_3,ShoppingItem returns to ShoppingItem,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getQuantity,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getSubtotalPrice
+1589175053662,continue_checkout_3,ShoppingItem returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingItem.java:ShoppingItem:getSubtotalPrice,<None>:Root:<None>
+1589175053673,continue_checkout_3,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart
+1589175053673,continue_checkout_3,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getCart,<None>:Root:<None>
+1589175053675,continue_checkout_3,Root calls ShoppingCartBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost
+1589175053675,continue_checkout_3,ShoppingCartBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getPrice
+1589175053676,continue_checkout_3,Inventory returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getPrice,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost
+1589175053676,continue_checkout_3,ShoppingCartBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getQuantity
+1589175053676,continue_checkout_3,Inventory returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getQuantity,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost
+1589175053676,continue_checkout_3,ShoppingCartBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost,<None>:Root:<None>
+1589175053683,continue_checkout_3,Root calls AccountBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo
+1589175053683,continue_checkout_3,AccountBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/AccountBean.java:AccountBean:getOrderInfo,<None>:Root:<None>
+1589175053683,continue_checkout_3,Root calls OrderInfo,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethodName
+1589175053685,continue_checkout_3,OrderInfo calls OrderInfo,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethodName,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethods
+1589175053685,continue_checkout_3,OrderInfo calls Util,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethods,plants/src/main/java/com/ibm/websphere/samples/pbw/utils/Util.java:Util:getFullShippingMethodStrings
+1589175053686,continue_checkout_3,Util returns to OrderInfo,plants/src/main/java/com/ibm/websphere/samples/pbw/utils/Util.java:Util:getFullShippingMethodStrings,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethods
+1589175053687,continue_checkout_3,OrderInfo returns to OrderInfo,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethods,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethodName
+1589175053687,continue_checkout_3,OrderInfo returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/OrderInfo.java:OrderInfo:getShippingMethodName,<None>:Root:<None>
+1589175053687,continue_checkout_3,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getShippingCost
+1589175053688,continue_checkout_3,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getShippingCost,<None>:Root:<None>
+1589175053698,continue_checkout_3,Root calls ShoppingBean,<None>:Root:<None>,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getTotalCost
+1589175053699,continue_checkout_3,ShoppingBean calls ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getTotalCost,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost
+1589175053699,continue_checkout_3,ShoppingCartBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getPrice
+1589175053699,continue_checkout_3,Inventory returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getPrice,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost
+1589175053699,continue_checkout_3,ShoppingCartBean calls Inventory,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getQuantity
+1589175053699,continue_checkout_3,Inventory returns to ShoppingCartBean,plants/src/main/java/com/ibm/websphere/samples/pbw/jpa/Inventory.java:Inventory:getQuantity,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost
+1589175053700,continue_checkout_3,ShoppingCartBean returns to ShoppingBean,plants/src/main/java/com/ibm/websphere/samples/pbw/bean/ShoppingCartBean.java:ShoppingCartBean:getSubtotalCost,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getTotalCost
+1589175053700,continue_checkout_3,ShoppingBean returns to Root,plants/src/main/java/com/ibm/websphere/samples/pbw/war/ShoppingBean.java:ShoppingBean:getTotalCost,<None>:Root:<None>

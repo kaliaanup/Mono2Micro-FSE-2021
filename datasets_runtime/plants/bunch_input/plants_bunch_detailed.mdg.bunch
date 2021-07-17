@@ -1,0 +1,7 @@
+SS(ShoppingBean.ss) = ShoppingBean, ProductBean
+SS(CatalogMgr.ss) = ImageServlet, ShoppingCartBean, CatalogMgr, ShoppingItem, BackOrder, Inventory
+SS(AccountBean.ss) = AccountBean, OrderInfo, LoginInfo, CustomerMgr, Customer, MailerAppException
+SS(Util.ss) = Util, HelpBean, PopulateDBBean, ListProperties, ResetDBBean
+SS(MailerBean.ss) = EMailMessage, MailerBean
+SS(SuppliersBean.ss) = SuppliersBean, Supplier
+SS(OrderItem.ss) = OrderItem, Order, OrderItem::PK

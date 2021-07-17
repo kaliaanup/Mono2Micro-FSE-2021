@@ -1,0 +1,11 @@
+SS(SqlMapSequenceDao.ss) = Sequence, SqlMapSequenceDao
+SS(SqlMapProductDao.ss) = Product, SqlMapProductDao, SqlMapProductDao::ProductSearch
+SS(OrderFormController.ss) = OrderFormController, OrderForm, OrderValidator
+SS(Item.ss) = SqlMapItemDao, Item
+SS(SqlMapCategoryDao.ss) = SqlMapCategoryDao, Category
+SS(Account.ss) = SqlMapAccountDao, Account
+SS(PetStoreImpl.ss) = ViewItemController, SearchProductsController, ViewProductController, PetStoreImpl, ViewCategoryController, AddItemToCartController
+SS(AccountFormController.ss) = AccountValidator, AccountFormController, AccountForm
+SS(Cart.ss) = Cart, CartItem, UpdateCartQuantitiesController, ViewCartController, RemoveItemFromCartController
+SS(Order.ss) = Order, LineItem, SqlMapOrderDao
+SS(UserSession.ss) = SignonController, UserSession

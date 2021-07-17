@@ -1,0 +1,2 @@
+1589168879553,Unknown,Root calls PingWebSocketTextSync,<None>:Root:<None>,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingWebSocketTextSync.java:PingWebSocketTextSync:onClose
+1589168879555,Unknown,PingWebSocketTextSync returns to Root,daytrader7/daytrader-ee7-web/src/main/java/com/ibm/websphere/samples/daytrader/web/prims/PingWebSocketTextSync.java:PingWebSocketTextSync:onClose,<None>:Root:<None>

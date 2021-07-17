@@ -1,0 +1,334 @@
+1589172110963,click_fish_1,Root calls ViewCategoryController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewCategoryController.java:ViewCategoryController:handleRequest
+1589172110968,click_fish_1,ViewCategoryController calls PetStoreImpl,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewCategoryController.java:ViewCategoryController:handleRequest,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:getCategory
+1589172110968,click_fish_1,PetStoreImpl calls SqlMapCategoryDao,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:getCategory,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapCategoryDao.java:SqlMapCategoryDao:getCategory
+1589172110971,click_fish_1,SqlMapCategoryDao calls Category,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapCategoryDao.java:SqlMapCategoryDao:getCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Category.java:Category:setCategoryId
+1589172110971,click_fish_1,Category returns to SqlMapCategoryDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Category.java:Category:setCategoryId,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapCategoryDao.java:SqlMapCategoryDao:getCategory
+1589172110971,click_fish_1,SqlMapCategoryDao calls Category,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapCategoryDao.java:SqlMapCategoryDao:getCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Category.java:Category:setName
+1589172110971,click_fish_1,Category returns to SqlMapCategoryDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Category.java:Category:setName,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapCategoryDao.java:SqlMapCategoryDao:getCategory
+1589172110971,click_fish_1,SqlMapCategoryDao calls Category,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapCategoryDao.java:SqlMapCategoryDao:getCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Category.java:Category:setDescription
+1589172110971,click_fish_1,Category returns to SqlMapCategoryDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Category.java:Category:setDescription,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapCategoryDao.java:SqlMapCategoryDao:getCategory
+1589172110971,click_fish_1,SqlMapCategoryDao returns to PetStoreImpl,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapCategoryDao.java:SqlMapCategoryDao:getCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:getCategory
+1589172110971,click_fish_1,PetStoreImpl returns to ViewCategoryController,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:getCategory,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewCategoryController.java:ViewCategoryController:handleRequest
+1589172110978,click_fish_1,ViewCategoryController calls PetStoreImpl,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewCategoryController.java:ViewCategoryController:handleRequest,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:getProductListByCategory
+1589172110979,click_fish_1,PetStoreImpl calls SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110985,click_fish_1,SqlMapProductDao calls Product,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setProductId
+1589172110985,click_fish_1,Product returns to SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setProductId,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110985,click_fish_1,SqlMapProductDao calls Product,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setName
+1589172110985,click_fish_1,Product returns to SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setName,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110986,click_fish_1,SqlMapProductDao calls Product,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setDescription
+1589172110986,click_fish_1,Product returns to SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setDescription,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110986,click_fish_1,SqlMapProductDao calls Product,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setCategoryId
+1589172110986,click_fish_1,Product returns to SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setCategoryId,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110986,click_fish_1,SqlMapProductDao calls Product,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setProductId
+1589172110986,click_fish_1,Product returns to SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setProductId,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110986,click_fish_1,SqlMapProductDao calls Product,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setName
+1589172110986,click_fish_1,Product returns to SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setName,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110986,click_fish_1,SqlMapProductDao calls Product,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setDescription
+1589172110986,click_fish_1,Product returns to SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setDescription,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110986,click_fish_1,SqlMapProductDao calls Product,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setCategoryId
+1589172110986,click_fish_1,Product returns to SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setCategoryId,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110987,click_fish_1,SqlMapProductDao calls Product,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setProductId
+1589172110987,click_fish_1,Product returns to SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setProductId,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110987,click_fish_1,SqlMapProductDao calls Product,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setName
+1589172110987,click_fish_1,Product returns to SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setName,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110987,click_fish_1,SqlMapProductDao calls Product,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setDescription
+1589172110987,click_fish_1,Product returns to SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setDescription,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110987,click_fish_1,SqlMapProductDao calls Product,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setCategoryId
+1589172110987,click_fish_1,Product returns to SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setCategoryId,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110987,click_fish_1,SqlMapProductDao calls Product,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setProductId
+1589172110987,click_fish_1,Product returns to SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setProductId,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110987,click_fish_1,SqlMapProductDao calls Product,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setName
+1589172110987,click_fish_1,Product returns to SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setName,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110988,click_fish_1,SqlMapProductDao calls Product,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setDescription
+1589172110988,click_fish_1,Product returns to SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setDescription,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110988,click_fish_1,SqlMapProductDao calls Product,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setCategoryId
+1589172110988,click_fish_1,Product returns to SqlMapProductDao,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:setCategoryId,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory
+1589172110988,click_fish_1,SqlMapProductDao returns to PetStoreImpl,jpetstore/src/org/springframework/samples/jpetstore/dao/ibatis/SqlMapProductDao.java:SqlMapProductDao:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:getProductListByCategory
+1589172110988,click_fish_1,PetStoreImpl returns to ViewCategoryController,jpetstore/src/org/springframework/samples/jpetstore/domain/logic/PetStoreImpl.java:PetStoreImpl:getProductListByCategory,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewCategoryController.java:ViewCategoryController:handleRequest
+1589172110993,click_fish_1,ViewCategoryController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewCategoryController.java:ViewCategoryController:handleRequest,<None>:Root:<None>
+1589172111001,click_fish_1,Root calls Category,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Category.java:Category:getName
+1589172111001,click_fish_1,Category returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Category.java:Category:getName,<None>:Root:<None>
+1589172111001,click_fish_1,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId
+1589172111001,click_fish_1,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId,<None>:Root:<None>
+1589172111002,click_fish_1,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId
+1589172111002,click_fish_1,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId,<None>:Root:<None>
+1589172111002,click_fish_1,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName
+1589172111002,click_fish_1,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName,<None>:Root:<None>
+1589172111002,click_fish_1,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId
+1589172111002,click_fish_1,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId,<None>:Root:<None>
+1589172111002,click_fish_1,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId
+1589172111002,click_fish_1,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId,<None>:Root:<None>
+1589172111003,click_fish_1,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName
+1589172111003,click_fish_1,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName,<None>:Root:<None>
+1589172111003,click_fish_1,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId
+1589172111003,click_fish_1,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId,<None>:Root:<None>
+1589172111003,click_fish_1,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId
+1589172111003,click_fish_1,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId,<None>:Root:<None>
+1589172111003,click_fish_1,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName
+1589172111003,click_fish_1,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName,<None>:Root:<None>
+1589172111003,click_fish_1,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId
+1589172111003,click_fish_1,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId,<None>:Root:<None>
+1589172111004,click_fish_1,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId
+1589172111004,click_fish_1,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId,<None>:Root:<None>
+1589172111004,click_fish_1,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName
+1589172111004,click_fish_1,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName,<None>:Root:<None>
+1589172740037,logout_user_j2ee,Root calls SignoffController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/SignoffController.java:SignoffController:handleRequest
+1589172740038,logout_user_j2ee,SignoffController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/SignoffController.java:SignoffController:handleRequest,<None>:Root:<None>
+1589173179643,update_cart_bulldog,Root calls UpdateCartQuantitiesController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UpdateCartQuantitiesController.java:UpdateCartQuantitiesController:handleRequest
+1589173179644,update_cart_bulldog,UpdateCartQuantitiesController calls Cart,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UpdateCartQuantitiesController.java:UpdateCartQuantitiesController:handleRequest,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getAllCartItems
+1589173179644,update_cart_bulldog,Cart returns to UpdateCartQuantitiesController,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getAllCartItems,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UpdateCartQuantitiesController.java:UpdateCartQuantitiesController:handleRequest
+1589173179645,update_cart_bulldog,UpdateCartQuantitiesController calls CartItem,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UpdateCartQuantitiesController.java:UpdateCartQuantitiesController:handleRequest,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173179646,update_cart_bulldog,CartItem returns to UpdateCartQuantitiesController,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UpdateCartQuantitiesController.java:UpdateCartQuantitiesController:handleRequest
+1589173179646,update_cart_bulldog,UpdateCartQuantitiesController calls Item,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UpdateCartQuantitiesController.java:UpdateCartQuantitiesController:handleRequest,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId
+1589173179646,update_cart_bulldog,Item returns to UpdateCartQuantitiesController,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UpdateCartQuantitiesController.java:UpdateCartQuantitiesController:handleRequest
+1589173179647,update_cart_bulldog,UpdateCartQuantitiesController calls Cart,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UpdateCartQuantitiesController.java:UpdateCartQuantitiesController:handleRequest,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:setQuantityByItemId
+1589173179648,update_cart_bulldog,Cart calls CartItem,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:setQuantityByItemId,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:setQuantity
+1589173179649,update_cart_bulldog,CartItem returns to Cart,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:setQuantity,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:setQuantityByItemId
+1589173179649,update_cart_bulldog,Cart returns to UpdateCartQuantitiesController,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:setQuantityByItemId,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UpdateCartQuantitiesController.java:UpdateCartQuantitiesController:handleRequest
+1589173179650,update_cart_bulldog,UpdateCartQuantitiesController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UpdateCartQuantitiesController.java:UpdateCartQuantitiesController:handleRequest,<None>:Root:<None>
+1589173179657,update_cart_bulldog,Root calls UserSession,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getAccount
+1589173179659,update_cart_bulldog,UserSession returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getAccount,<None>:Root:<None>
+1589173179660,update_cart_bulldog,Root calls UserSession,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getAccount
+1589173179660,update_cart_bulldog,UserSession returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getAccount,<None>:Root:<None>
+1589173179661,update_cart_bulldog,Root calls Cart,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getNumberOfItems
+1589173179661,update_cart_bulldog,Cart returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getNumberOfItems,<None>:Root:<None>
+1589173179661,update_cart_bulldog,Root calls Cart,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getCartItemList
+1589173179661,update_cart_bulldog,Cart returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getCartItemList,<None>:Root:<None>
+1589173179662,update_cart_bulldog,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173179662,update_cart_bulldog,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173179662,update_cart_bulldog,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId
+1589173179662,update_cart_bulldog,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId,<None>:Root:<None>
+1589173179662,update_cart_bulldog,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173179663,update_cart_bulldog,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173179663,update_cart_bulldog,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId
+1589173179663,update_cart_bulldog,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId,<None>:Root:<None>
+1589173179663,update_cart_bulldog,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173179663,update_cart_bulldog,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173179664,update_cart_bulldog,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getProductId
+1589173179664,update_cart_bulldog,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getProductId,<None>:Root:<None>
+1589173179664,update_cart_bulldog,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173179664,update_cart_bulldog,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173179666,update_cart_bulldog,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute1
+1589173179667,update_cart_bulldog,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute1,<None>:Root:<None>
+1589173179667,update_cart_bulldog,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173179667,update_cart_bulldog,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173179668,update_cart_bulldog,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute2
+1589173179669,update_cart_bulldog,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute2,<None>:Root:<None>
+1589173179669,update_cart_bulldog,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173179669,update_cart_bulldog,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173179670,update_cart_bulldog,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute3
+1589173179670,update_cart_bulldog,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute3,<None>:Root:<None>
+1589173179670,update_cart_bulldog,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173179670,update_cart_bulldog,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173179671,update_cart_bulldog,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute4
+1589173179671,update_cart_bulldog,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute4,<None>:Root:<None>
+1589173179671,update_cart_bulldog,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173179672,update_cart_bulldog,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173179672,update_cart_bulldog,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute5
+1589173179672,update_cart_bulldog,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute5,<None>:Root:<None>
+1589173179672,update_cart_bulldog,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173179672,update_cart_bulldog,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173179672,update_cart_bulldog,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getProduct
+1589173179672,update_cart_bulldog,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getProduct,<None>:Root:<None>
+1589173179672,update_cart_bulldog,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName
+1589173179672,update_cart_bulldog,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName,<None>:Root:<None>
+1589173179672,update_cart_bulldog,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:isInStock
+1589173179672,update_cart_bulldog,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:isInStock,<None>:Root:<None>
+1589173179672,update_cart_bulldog,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173179672,update_cart_bulldog,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173179672,update_cart_bulldog,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId
+1589173179672,update_cart_bulldog,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId,<None>:Root:<None>
+1589173179672,update_cart_bulldog,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getQuantity
+1589173179672,update_cart_bulldog,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getQuantity,<None>:Root:<None>
+1589173179672,update_cart_bulldog,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173179672,update_cart_bulldog,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173179672,update_cart_bulldog,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice
+1589173179672,update_cart_bulldog,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice,<None>:Root:<None>
+1589173179673,update_cart_bulldog,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getTotalPrice
+1589173179673,update_cart_bulldog,CartItem calls Item,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getTotalPrice,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice
+1589173179673,update_cart_bulldog,Item returns to CartItem,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getTotalPrice
+1589173179673,update_cart_bulldog,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getTotalPrice,<None>:Root:<None>
+1589173179673,update_cart_bulldog,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173179673,update_cart_bulldog,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173179673,update_cart_bulldog,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId
+1589173179673,update_cart_bulldog,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId,<None>:Root:<None>
+1589173179674,update_cart_bulldog,Root calls Cart,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal
+1589173179674,update_cart_bulldog,Cart calls Cart,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getAllCartItems
+1589173179674,update_cart_bulldog,Cart returns to Cart,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getAllCartItems,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal
+1589173179674,update_cart_bulldog,Cart calls CartItem,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173179674,update_cart_bulldog,CartItem returns to Cart,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal
+1589173179674,update_cart_bulldog,Cart calls Item,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice
+1589173179674,update_cart_bulldog,Item returns to Cart,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal
+1589173179674,update_cart_bulldog,Cart calls CartItem,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getQuantity
+1589173179674,update_cart_bulldog,CartItem returns to Cart,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getQuantity,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal
+1589173179674,update_cart_bulldog,Cart returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal,<None>:Root:<None>
+1589173179674,update_cart_bulldog,Root calls Cart,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getCartItemList
+1589173179675,update_cart_bulldog,Cart returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getCartItemList,<None>:Root:<None>
+1589173179675,update_cart_bulldog,Root calls Cart,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getCartItemList
+1589173179675,update_cart_bulldog,Cart returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getCartItemList,<None>:Root:<None>
+1589173179675,update_cart_bulldog,Root calls Cart,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getNumberOfItems
+1589173179675,update_cart_bulldog,Cart returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getNumberOfItems,<None>:Root:<None>
+1589173179678,update_cart_bulldog,Root calls UserSession,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getAccount
+1589173179678,update_cart_bulldog,UserSession returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getAccount,<None>:Root:<None>
+1589173179678,update_cart_bulldog,Root calls Account,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Account.java:Account:getUsername
+1589173179678,update_cart_bulldog,Account returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Account.java:Account:getUsername,<None>:Root:<None>
+1589173179678,update_cart_bulldog,Root calls UserSession,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getAccount
+1589173179678,update_cart_bulldog,UserSession returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getAccount,<None>:Root:<None>
+1589173179679,update_cart_bulldog,Root calls Account,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Account.java:Account:isListOption
+1589173179679,update_cart_bulldog,Account returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Account.java:Account:isListOption,<None>:Root:<None>
+1589173179679,update_cart_bulldog,Root calls UserSession,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getMyList
+1589173179679,update_cart_bulldog,UserSession returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getMyList,<None>:Root:<None>
+1589173179679,update_cart_bulldog,Root calls UserSession,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getMyList
+1589173179679,update_cart_bulldog,UserSession returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getMyList,<None>:Root:<None>
+1589173179680,update_cart_bulldog,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId
+1589173179680,update_cart_bulldog,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId,<None>:Root:<None>
+1589173179680,update_cart_bulldog,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName
+1589173179680,update_cart_bulldog,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName,<None>:Root:<None>
+1589173179681,update_cart_bulldog,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId
+1589173179681,update_cart_bulldog,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId,<None>:Root:<None>
+1589173179681,update_cart_bulldog,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId
+1589173179685,update_cart_bulldog,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId,<None>:Root:<None>
+1589173179685,update_cart_bulldog,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName
+1589173179685,update_cart_bulldog,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName,<None>:Root:<None>
+1589173179685,update_cart_bulldog,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId
+1589173179685,update_cart_bulldog,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getProductId,<None>:Root:<None>
+1589173179685,update_cart_bulldog,Root calls UserSession,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getMyList
+1589173179685,update_cart_bulldog,UserSession returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getMyList,<None>:Root:<None>
+1589173179685,update_cart_bulldog,Root calls UserSession,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getMyList
+1589173179685,update_cart_bulldog,UserSession returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getMyList,<None>:Root:<None>
+1589173179685,update_cart_bulldog,Root calls UserSession,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getAccount
+1589173179685,update_cart_bulldog,UserSession returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getAccount,<None>:Root:<None>
+1589173179685,update_cart_bulldog,Root calls Account,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Account.java:Account:isBannerOption
+1589173179685,update_cart_bulldog,Account returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Account.java:Account:isBannerOption,<None>:Root:<None>
+1589173179686,update_cart_bulldog,Root calls UserSession,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getAccount
+1589173179686,update_cart_bulldog,UserSession returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getAccount,<None>:Root:<None>
+1589173179686,update_cart_bulldog,Root calls Account,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Account.java:Account:getBannerName
+1589173179686,update_cart_bulldog,Account returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Account.java:Account:getBannerName,<None>:Root:<None>
+1589173306559,checkout_bulldog_chihuahua,Root calls ViewCartController,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewCartController.java:ViewCartController:handleRequest
+1589173306559,checkout_bulldog_chihuahua,ViewCartController returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/ViewCartController.java:ViewCartController:handleRequest,<None>:Root:<None>
+1589173306574,checkout_bulldog_chihuahua,Root calls UserSession,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getAccount
+1589173306574,checkout_bulldog_chihuahua,UserSession returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getAccount,<None>:Root:<None>
+1589173306574,checkout_bulldog_chihuahua,Root calls UserSession,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getAccount
+1589173306574,checkout_bulldog_chihuahua,UserSession returns to Root,jpetstore/src/org/springframework/samples/jpetstore/web/spring/UserSession.java:UserSession:getAccount,<None>:Root:<None>
+1589173306576,checkout_bulldog_chihuahua,Root calls Cart,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getCartItemList
+1589173306577,checkout_bulldog_chihuahua,Cart returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getCartItemList,<None>:Root:<None>
+1589173306579,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306579,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306579,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId
+1589173306580,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId,<None>:Root:<None>
+1589173306581,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306581,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306584,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId
+1589173306585,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId,<None>:Root:<None>
+1589173306585,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306585,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306585,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getProductId
+1589173306585,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getProductId,<None>:Root:<None>
+1589173306585,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306585,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306585,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute1
+1589173306585,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute1,<None>:Root:<None>
+1589173306586,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306586,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306586,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute2
+1589173306586,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute2,<None>:Root:<None>
+1589173306586,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306586,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306586,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute3
+1589173306587,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute3,<None>:Root:<None>
+1589173306587,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306587,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306587,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute4
+1589173306587,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute4,<None>:Root:<None>
+1589173306587,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306587,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306587,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute5
+1589173306587,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute5,<None>:Root:<None>
+1589173306587,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306587,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306587,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getProduct
+1589173306587,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getProduct,<None>:Root:<None>
+1589173306587,checkout_bulldog_chihuahua,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName
+1589173306587,checkout_bulldog_chihuahua,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName,<None>:Root:<None>
+1589173306587,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:isInStock
+1589173306587,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:isInStock,<None>:Root:<None>
+1589173306587,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getQuantity
+1589173306587,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getQuantity,<None>:Root:<None>
+1589173306587,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306587,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306587,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice
+1589173306587,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice,<None>:Root:<None>
+1589173306588,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getTotalPrice
+1589173306588,checkout_bulldog_chihuahua,CartItem calls Item,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getTotalPrice,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice
+1589173306588,checkout_bulldog_chihuahua,Item returns to CartItem,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getTotalPrice
+1589173306588,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getTotalPrice,<None>:Root:<None>
+1589173306588,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306588,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306588,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId
+1589173306588,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId,<None>:Root:<None>
+1589173306588,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306588,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306588,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId
+1589173306588,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getItemId,<None>:Root:<None>
+1589173306588,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306588,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306588,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getProductId
+1589173306588,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getProductId,<None>:Root:<None>
+1589173306588,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306588,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306589,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute1
+1589173306589,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute1,<None>:Root:<None>
+1589173306589,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306589,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306589,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute2
+1589173306589,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute2,<None>:Root:<None>
+1589173306589,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306589,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306589,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute3
+1589173306590,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute3,<None>:Root:<None>
+1589173306590,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306590,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306591,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute4
+1589173306591,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute4,<None>:Root:<None>
+1589173306592,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306592,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306593,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute5
+1589173306593,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getAttribute5,<None>:Root:<None>
+1589173306593,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306593,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306593,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getProduct
+1589173306593,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getProduct,<None>:Root:<None>
+1589173306593,checkout_bulldog_chihuahua,Root calls Product,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName
+1589173306593,checkout_bulldog_chihuahua,Product returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Product.java:Product:getName,<None>:Root:<None>
+1589173306593,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:isInStock
+1589173306593,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:isInStock,<None>:Root:<None>
+1589173306593,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getQuantity
+1589173306593,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getQuantity,<None>:Root:<None>
+1589173306593,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306593,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,<None>:Root:<None>
+1589173306593,checkout_bulldog_chihuahua,Root calls Item,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice
+1589173306593,checkout_bulldog_chihuahua,Item returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice,<None>:Root:<None>
+1589173306594,checkout_bulldog_chihuahua,Root calls CartItem,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getTotalPrice
+1589173306594,checkout_bulldog_chihuahua,CartItem calls Item,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getTotalPrice,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice
+1589173306594,checkout_bulldog_chihuahua,Item returns to CartItem,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getTotalPrice
+1589173306594,checkout_bulldog_chihuahua,CartItem returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getTotalPrice,<None>:Root:<None>
+1589173306595,checkout_bulldog_chihuahua,Root calls Cart,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal
+1589173306595,checkout_bulldog_chihuahua,Cart calls Cart,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getAllCartItems
+1589173306595,checkout_bulldog_chihuahua,Cart returns to Cart,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getAllCartItems,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal
+1589173306595,checkout_bulldog_chihuahua,Cart calls CartItem,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306595,checkout_bulldog_chihuahua,CartItem returns to Cart,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal
+1589173306595,checkout_bulldog_chihuahua,Cart calls Item,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice
+1589173306595,checkout_bulldog_chihuahua,Item returns to Cart,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal
+1589173306595,checkout_bulldog_chihuahua,Cart calls CartItem,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getQuantity
+1589173306595,checkout_bulldog_chihuahua,CartItem returns to Cart,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getQuantity,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal
+1589173306595,checkout_bulldog_chihuahua,Cart calls CartItem,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem
+1589173306595,checkout_bulldog_chihuahua,CartItem returns to Cart,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getItem,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal
+1589173306595,checkout_bulldog_chihuahua,Cart calls Item,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice
+1589173306595,checkout_bulldog_chihuahua,Item returns to Cart,jpetstore/src/org/springframework/samples/jpetstore/domain/Item.java:Item:getListPrice,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal
+1589173306596,checkout_bulldog_chihuahua,Cart calls CartItem,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getQuantity
+1589173306596,checkout_bulldog_chihuahua,CartItem returns to Cart,jpetstore/src/org/springframework/samples/jpetstore/domain/CartItem.java:CartItem:getQuantity,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal
+1589173306596,checkout_bulldog_chihuahua,Cart returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getSubTotal,<None>:Root:<None>
+1589173306601,checkout_bulldog_chihuahua,Root calls Cart,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getCartItemList
+1589173306601,checkout_bulldog_chihuahua,Cart returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getCartItemList,<None>:Root:<None>
+1589173306601,checkout_bulldog_chihuahua,Root calls Cart,<None>:Root:<None>,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getCartItemList
+1589173306601,checkout_bulldog_chihuahua,Cart returns to Root,jpetstore/src/org/springframework/samples/jpetstore/domain/Cart.java:Cart:getCartItemList,<None>:Root:<None>

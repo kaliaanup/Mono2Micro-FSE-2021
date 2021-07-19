@@ -21,8 +21,6 @@ This folder contains replication material for the FSE paper accepted.
 
 - Survey results. This contains the survey outcomes that we conducted in IBM. This does not contains participants details.
 
-- Whole Example. We provide sample examples to extract features and perform hierarchical clustering.
-
 
 Unfortunately we cannot release the code for Mono2Micro. Feel free to use the trial version of Mono2Micro here.
 
